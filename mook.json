@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "message": "Tasks obtained successfully",
+    "response": true,
+    "data": [
+        {
+            "task_id": "1",
+            "task_name": "test one",
+            "task_desc": "werever action",
+            "task_status": "1",
+            "task_notify": "1",
+            "task_date": "2023-09-23T17:00",
+            "task_created": "2023-09-05 17:00:53",
+            "task_updated": "2023-09-05 17:28:01",
+            "user_id": "1",
+            "user_name": "Administrator",
+            "user_user": "admin",
+            "user_pass": "admin",
+            "user_whatsapp": "00000000000",
+            "user_photo": "default.png",
+            "user_admin": "1",
+            "user_last": "2023-01-01 00:00:00",
+            "user_created": "2023-01-01 00:00:00"
+        },
+        {
+            "task_id": "1",
+            "task_name": "test one",
+            "task_desc": "werever action",
+            "task_status": "1",
+            "task_notify": "1",
+            "task_date": "2023-09-23T17:00",
+            "task_created": "2023-09-05 17:00:53",
+            "task_updated": "2023-09-05 17:28:01",
+            "user_id": "1",
+            "user_name": "Administrator",
+            "user_user": "admin",
+            "user_pass": "admin",
+            "user_whatsapp": "00000000000",
+            "user_photo": "default.png",
+            "user_admin": "1",
+            "user_last": "2023-01-01 00:00:00",
+            "user_created": "2023-01-01 00:00:00"
+        }
+    ]
+}
